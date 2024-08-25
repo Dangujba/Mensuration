@@ -132,3 +132,10 @@ from mensuration import draw_hexagon
 
 draw_hexagon(7)
 ```
+# Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to include tests for your changes.
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
