@@ -118,4 +118,17 @@ draw_square(10)
 ### Calculating Area
 
 Calculate the area of a rectangle:
+```python
+from mensuration import rectangle_area
 
+length = 10 width = 5 area = rectangle_area(length, width) print(f"The area of the rectangle is {area}")
+```
+
+### Drawing Shapes
+
+Draw a hexagon with a side length of 7:
+```python
+from mensuration import draw_hexagon
+
+draw_hexagon(7)
+```
